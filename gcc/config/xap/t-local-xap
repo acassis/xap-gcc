@@ -1,0 +1,4 @@
+LIBGCC2       = libgcc1.null
+CROSS_LIBGCC1 = libgcc1.null
+LIBGCC1_TEST  =
+USE_COLLECT2  =
