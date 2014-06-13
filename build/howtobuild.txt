@@ -1,0 +1,7 @@
+To build execute this command inside this build directory:
+
+$ ../configure --enable-languages=c --target=xap-local-xap --prefix=../install_dir
+$ make
+$ make install
+
+The compiled toolchain will be installed inside ../install_dir
